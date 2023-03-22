@@ -1,0 +1,1263 @@
+{
+  "name": "Online boarding >= 4 ?",
+  "children": [
+    {
+      "name": "yes",
+      "children": [
+        {
+          "name": "Type of Travel == Business travel ?",
+          "children": [
+            {
+              "name": "yes",
+              "children": [
+                {
+                  "name": "Online boarding >= 5 ?",
+                  "children": [
+                    {
+                      "name": "yes",
+                      "children": [
+                        {
+                          "name": "Customer Type == Loyal Customer ?",
+                          "children": [
+                            {
+                              "name": "yes",
+                              "children": [
+                                {
+                                  "name": "satisfied"
+                                }
+                              ]
+                            },
+                            {
+                              "name": "no",
+                              "children": [
+                                {
+                                  "name": "Inflight wifi service >= 5 ?",
+                                  "children": [
+                                    {
+                                      "name": "yes",
+                                      "children": [
+                                        {
+                                          "name": "satisfied"
+                                        }
+                                      ]
+                                    },
+                                    {
+                                      "name": "no",
+                                      "children": [
+                                        {
+                                          "name": "Class == Eco ?",
+                                          "children": [
+                                            {
+                                              "name": "yes",
+                                              "children": [
+                                                {
+                                                  "name": "Leg room service >= 3 ?",
+                                                  "children": [
+                                                    {
+                                                      "name": "yes",
+                                                      "children": [
+                                                        {
+                                                          "name": "neutral or dissatisfied"
+                                                        }
+                                                      ]
+                                                    },
+                                                    {
+                                                      "name": "no",
+                                                      "children": [
+                                                        {
+                                                          "name": "satisfied"
+                                                        }
+                                                      ]
+                                                    }
+                                                  ]
+                                                }
+                                              ]
+                                            },
+                                            {
+                                              "name": "no",
+                                              "children": [
+                                                {
+                                                  "name": "satisfied"
+                                                }
+                                              ]
+                                            }
+                                          ]
+                                        }
+                                      ]
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "name": "no",
+                      "children": [
+                        {
+                          "name": "Inflight entertainment >= 4 ?",
+                          "children": [
+                            {
+                              "name": "yes",
+                              "children": [
+                                {
+                                  "name": "Customer Type == Loyal Customer ?",
+                                  "children": [
+                                    {
+                                      "name": "yes",
+                                      "children": [
+                                        {
+                                          "name": "Inflight wifi service >= 4 ?",
+                                          "children": [
+                                            {
+                                              "name": "yes",
+                                              "children": [
+                                                {
+                                                  "name": "Departure/Arrival time convenient >= 4 ?",
+                                                  "children": [
+                                                    {
+                                                      "name": "yes",
+                                                      "children": [
+                                                        {
+                                                          "name": "Inflight service >= 4 ?",
+                                                          "children": [
+                                                            {
+                                                              "name": "yes",
+                                                              "children": [
+                                                                {
+                                                                  "name": "Checkin service >= 3 ?",
+                                                                  "children": [
+                                                                    {
+                                                                      "name": "yes",
+                                                                      "children": [
+                                                                        {
+                                                                          "name": "Inflight service >= 5 ?",
+                                                                          "children": [
+                                                                            {
+                                                                              "name": "yes",
+                                                                              "children": [
+                                                                                {
+                                                                                  "name": "satisfied"
+                                                                                }
+                                                                              ]
+                                                                            },
+                                                                            {
+                                                                              "name": "no",
+                                                                              "children": [
+                                                                                {
+                                                                                  "name": "Leg room service >= 4 ?",
+                                                                                  "children": [
+                                                                                    {
+                                                                                      "name": "yes",
+                                                                                      "children": [
+                                                                                        {
+                                                                                          "name": "Cleanliness >= 3 ?",
+                                                                                          "children": [
+                                                                                            {
+                                                                                              "name": "yes",
+                                                                                              "children": [
+                                                                                                {
+                                                                                                  "name": "Class == Business ?",
+                                                                                                  "children": [
+                                                                                                    {
+                                                                                                      "name": "yes",
+                                                                                                      "children": [
+                                                                                                        {
+                                                                                                          "name": "satisfied"
+                                                                                                        }
+                                                                                                      ]
+                                                                                                    },
+                                                                                                    {
+                                                                                                      "name": "no",
+                                                                                                      "children": [
+                                                                                                        {
+                                                                                                          "name": "Flight Distance >= 393 ?",
+                                                                                                          "children": [
+                                                                                                            {
+                                                                                                              "name": "yes",
+                                                                                                              "children": [
+                                                                                                                {
+                                                                                                                  "name": "satisfied"
+                                                                                                                }
+                                                                                                              ]
+                                                                                                            },
+                                                                                                            {
+                                                                                                              "name": "no",
+                                                                                                              "children": [
+                                                                                                                {
+                                                                                                                  "name": "neutral or dissatisfied"
+                                                                                                                }
+                                                                                                              ]
+                                                                                                            }
+                                                                                                          ]
+                                                                                                        }
+                                                                                                      ]
+                                                                                                    }
+                                                                                                  ]
+                                                                                                }
+                                                                                              ]
+                                                                                            },
+                                                                                            {
+                                                                                              "name": "no",
+                                                                                              "children": [
+                                                                                                {
+                                                                                                  "name": "Age >= 52 ?",
+                                                                                                  "children": [
+                                                                                                    {
+                                                                                                      "name": "yes",
+                                                                                                      "children": [
+                                                                                                        {
+                                                                                                          "name": "Seat comfort >= 4 ?",
+                                                                                                          "children": [
+                                                                                                            {
+                                                                                                              "name": "yes",
+                                                                                                              "children": [
+                                                                                                                {
+                                                                                                                  "name": "neutral or dissatisfied"
+                                                                                                                }
+                                                                                                              ]
+                                                                                                            },
+                                                                                                            {
+                                                                                                              "name": "no",
+                                                                                                              "children": [
+                                                                                                                {
+                                                                                                                  "name": "satisfied"
+                                                                                                                }
+                                                                                                              ]
+                                                                                                            }
+                                                                                                          ]
+                                                                                                        }
+                                                                                                      ]
+                                                                                                    },
+                                                                                                    {
+                                                                                                      "name": "no",
+                                                                                                      "children": [
+                                                                                                        {
+                                                                                                          "name": "satisfied"
+                                                                                                        }
+                                                                                                      ]
+                                                                                                    }
+                                                                                                  ]
+                                                                                                }
+                                                                                              ]
+                                                                                            }
+                                                                                          ]
+                                                                                        }
+                                                                                      ]
+                                                                                    },
+                                                                                    {
+                                                                                      "name": "no",
+                                                                                      "children": [
+                                                                                        {
+                                                                                          "name": "Inflight wifi service >= 5 ?",
+                                                                                          "children": [
+                                                                                            {
+                                                                                              "name": "yes",
+                                                                                              "children": [
+                                                                                                {
+                                                                                                  "name": "satisfied"
+                                                                                                }
+                                                                                              ]
+                                                                                            },
+                                                                                            {
+                                                                                              "name": "no",
+                                                                                              "children": [
+                                                                                                {
+                                                                                                  "name": "Arrival Delay in Minutes >= 7 ?",
+                                                                                                  "children": [
+                                                                                                    {
+                                                                                                      "name": "yes",
+                                                                                                      "children": [
+                                                                                                        {
+                                                                                                          "name": "neutral or dissatisfied"
+                                                                                                        }
+                                                                                                      ]
+                                                                                                    },
+                                                                                                    {
+                                                                                                      "name": "no",
+                                                                                                      "children": [
+                                                                                                        {
+                                                                                                          "name": "On-board service >= 3 ?",
+                                                                                                          "children": [
+                                                                                                            {
+                                                                                                              "name": "yes",
+                                                                                                              "children": [
+                                                                                                                {
+                                                                                                                  "name": "satisfied"
+                                                                                                                }
+                                                                                                              ]
+                                                                                                            },
+                                                                                                            {
+                                                                                                              "name": "no",
+                                                                                                              "children": [
+                                                                                                                {
+                                                                                                                  "name": "Flight Distance >= 651 ?",
+                                                                                                                  "children": [
+                                                                                                                    {
+                                                                                                                      "name": "yes",
+                                                                                                                      "children": [
+                                                                                                                        {
+                                                                                                                          "name": "neutral or dissatisfied"
+                                                                                                                        }
+                                                                                                                      ]
+                                                                                                                    },
+                                                                                                                    {
+                                                                                                                      "name": "no",
+                                                                                                                      "children": [
+                                                                                                                        {
+                                                                                                                          "name": "satisfied"
+                                                                                                                        }
+                                                                                                                      ]
+                                                                                                                    }
+                                                                                                                  ]
+                                                                                                                }
+                                                                                                              ]
+                                                                                                            }
+                                                                                                          ]
+                                                                                                        }
+                                                                                                      ]
+                                                                                                    }
+                                                                                                  ]
+                                                                                                }
+                                                                                              ]
+                                                                                            }
+                                                                                          ]
+                                                                                        }
+                                                                                      ]
+                                                                                    }
+                                                                                  ]
+                                                                                }
+                                                                              ]
+                                                                            }
+                                                                          ]
+                                                                        }
+                                                                      ]
+                                                                    },
+                                                                    {
+                                                                      "name": "no",
+                                                                      "children": [
+                                                                        {
+                                                                          "name": "Gender == Female ?",
+                                                                          "children": [
+                                                                            {
+                                                                              "name": "yes",
+                                                                              "children": [
+                                                                                {
+                                                                                  "name": "Departure/Arrival time convenient >= 5 ?",
+                                                                                  "children": [
+                                                                                    {
+                                                                                      "name": "yes",
+                                                                                      "children": [
+                                                                                        {
+                                                                                          "name": "satisfied"
+                                                                                        }
+                                                                                      ]
+                                                                                    },
+                                                                                    {
+                                                                                      "name": "no",
+                                                                                      "children": [
+                                                                                        {
+                                                                                          "name": "Baggage handling >= 2 ?",
+                                                                                          "children": [
+                                                                                            {
+                                                                                              "name": "yes",
+                                                                                              "children": [
+                                                                                                {
+                                                                                                  "name": "Seat comfort >= 4 ?",
+                                                                                                  "children": [
+                                                                                                    {
+                                                                                                      "name": "yes",
+                                                                                                      "children": [
+                                                                                                        {
+                                                                                                          "name": "neutral or dissatisfied"
+                                                                                                        }
+                                                                                                      ]
+                                                                                                    },
+                                                                                                    {
+                                                                                                      "name": "no",
+                                                                                                      "children": [
+                                                                                                        {
+                                                                                                          "name": "Food and drink >= 4 ?",
+                                                                                                          "children": [
+                                                                                                            {
+                                                                                                              "name": "yes",
+                                                                                                              "children": [
+                                                                                                                {
+                                                                                                                  "name": "satisfied"
+                                                                                                                }
+                                                                                                              ]
+                                                                                                            },
+                                                                                                            {
+                                                                                                              "name": "no",
+                                                                                                              "children": [
+                                                                                                                {
+                                                                                                                  "name": "neutral or dissatisfied"
+                                                                                                                }
+                                                                                                              ]
+                                                                                                            }
+                                                                                                          ]
+                                                                                                        }
+                                                                                                      ]
+                                                                                                    }
+                                                                                                  ]
+                                                                                                }
+                                                                                              ]
+                                                                                            },
+                                                                                            {
+                                                                                              "name": "no",
+                                                                                              "children": [
+                                                                                                {
+                                                                                                  "name": "satisfied"
+                                                                                                }
+                                                                                              ]
+                                                                                            }
+                                                                                          ]
+                                                                                        }
+                                                                                      ]
+                                                                                    }
+                                                                                  ]
+                                                                                }
+                                                                              ]
+                                                                            },
+                                                                            {
+                                                                              "name": "no",
+                                                                              "children": [
+                                                                                {
+                                                                                  "name": "satisfied"
+                                                                                }
+                                                                              ]
+                                                                            }
+                                                                          ]
+                                                                        }
+                                                                      ]
+                                                                    }
+                                                                  ]
+                                                                }
+                                                              ]
+                                                            },
+                                                            {
+                                                              "name": "no",
+                                                              "children": [
+                                                                {
+                                                                  "name": "Inflight service >= 3 ?",
+                                                                  "children": [
+                                                                    {
+                                                                      "name": "yes",
+                                                                      "children": [
+                                                                        {
+                                                                          "name": "Departure Delay in Minutes >= 14 ?",
+                                                                          "children": [
+                                                                            {
+                                                                              "name": "yes",
+                                                                              "children": [
+                                                                                {
+                                                                                  "name": "neutral or dissatisfied"
+                                                                                }
+                                                                              ]
+                                                                            },
+                                                                            {
+                                                                              "name": "no",
+                                                                              "children": [
+                                                                                {
+                                                                                  "name": "Checkin service >= 4 ?",
+                                                                                  "children": [
+                                                                                    {
+                                                                                      "name": "yes",
+                                                                                      "children": [
+                                                                                        {
+                                                                                          "name": "satisfied"
+                                                                                        }
+                                                                                      ]
+                                                                                    },
+                                                                                    {
+                                                                                      "name": "no",
+                                                                                      "children": [
+                                                                                        {
+                                                                                          "name": "Age >= 36 ?",
+                                                                                          "children": [
+                                                                                            {
+                                                                                              "name": "yes",
+                                                                                              "children": [
+                                                                                                {
+                                                                                                  "name": "Baggage handling >= 4 ?",
+                                                                                                  "children": [
+                                                                                                    {
+                                                                                                      "name": "yes",
+                                                                                                      "children": [
+                                                                                                        {
+                                                                                                          "name": "Gender == Male ?",
+                                                                                                          "children": [
+                                                                                                            {
+                                                                                                              "name": "yes",
+                                                                                                              "children": [
+                                                                                                                {
+                                                                                                                  "name": "neutral or dissatisfied"
+                                                                                                                }
+                                                                                                              ]
+                                                                                                            },
+                                                                                                            {
+                                                                                                              "name": "no",
+                                                                                                              "children": [
+                                                                                                                {
+                                                                                                                  "name": "satisfied"
+                                                                                                                }
+                                                                                                              ]
+                                                                                                            }
+                                                                                                          ]
+                                                                                                        }
+                                                                                                      ]
+                                                                                                    },
+                                                                                                    {
+                                                                                                      "name": "no",
+                                                                                                      "children": [
+                                                                                                        {
+                                                                                                          "name": "satisfied"
+                                                                                                        }
+                                                                                                      ]
+                                                                                                    }
+                                                                                                  ]
+                                                                                                }
+                                                                                              ]
+                                                                                            },
+                                                                                            {
+                                                                                              "name": "no",
+                                                                                              "children": [
+                                                                                                {
+                                                                                                  "name": "neutral or dissatisfied"
+                                                                                                }
+                                                                                              ]
+                                                                                            }
+                                                                                          ]
+                                                                                        }
+                                                                                      ]
+                                                                                    }
+                                                                                  ]
+                                                                                }
+                                                                              ]
+                                                                            }
+                                                                          ]
+                                                                        }
+                                                                      ]
+                                                                    },
+                                                                    {
+                                                                      "name": "no",
+                                                                      "children": [
+                                                                        {
+                                                                          "name": "Flight Distance >= 287 ?",
+                                                                          "children": [
+                                                                            {
+                                                                              "name": "yes",
+                                                                              "children": [
+                                                                                {
+                                                                                  "name": "satisfied"
+                                                                                }
+                                                                              ]
+                                                                            },
+                                                                            {
+                                                                              "name": "no",
+                                                                              "children": [
+                                                                                {
+                                                                                  "name": "Inflight service >= 2 ?",
+                                                                                  "children": [
+                                                                                    {
+                                                                                      "name": "yes",
+                                                                                      "children": [
+                                                                                        {
+                                                                                          "name": "satisfied"
+                                                                                        }
+                                                                                      ]
+                                                                                    },
+                                                                                    {
+                                                                                      "name": "no",
+                                                                                      "children": [
+                                                                                        {
+                                                                                          "name": "neutral or dissatisfied"
+                                                                                        }
+                                                                                      ]
+                                                                                    }
+                                                                                  ]
+                                                                                }
+                                                                              ]
+                                                                            }
+                                                                          ]
+                                                                        }
+                                                                      ]
+                                                                    }
+                                                                  ]
+                                                                }
+                                                              ]
+                                                            }
+                                                          ]
+                                                        }
+                                                      ]
+                                                    },
+                                                    {
+                                                      "name": "no",
+                                                      "children": [
+                                                        {
+                                                          "name": "Flight Distance >= 1521 ?",
+                                                          "children": [
+                                                            {
+                                                              "name": "yes",
+                                                              "children": [
+                                                                {
+                                                                  "name": "Age >= 46 ?",
+                                                                  "children": [
+                                                                    {
+                                                                      "name": "yes",
+                                                                      "children": [
+                                                                        {
+                                                                          "name": "Arrival Delay in Minutes >= 27 ?",
+                                                                          "children": [
+                                                                            {
+                                                                              "name": "yes",
+                                                                              "children": [
+                                                                                {
+                                                                                  "name": "satisfied"
+                                                                                }
+                                                                              ]
+                                                                            },
+                                                                            {
+                                                                              "name": "no",
+                                                                              "children": [
+                                                                                {
+                                                                                  "name": "Class == Business ?",
+                                                                                  "children": [
+                                                                                    {
+                                                                                      "name": "yes",
+                                                                                      "children": [
+                                                                                        {
+                                                                                          "name": "neutral or dissatisfied"
+                                                                                        }
+                                                                                      ]
+                                                                                    },
+                                                                                    {
+                                                                                      "name": "no",
+                                                                                      "children": [
+                                                                                        {
+                                                                                          "name": "satisfied"
+                                                                                        }
+                                                                                      ]
+                                                                                    }
+                                                                                  ]
+                                                                                }
+                                                                              ]
+                                                                            }
+                                                                          ]
+                                                                        }
+                                                                      ]
+                                                                    },
+                                                                    {
+                                                                      "name": "no",
+                                                                      "children": [
+                                                                        {
+                                                                          "name": "neutral or dissatisfied"
+                                                                        }
+                                                                      ]
+                                                                    }
+                                                                  ]
+                                                                }
+                                                              ]
+                                                            },
+                                                            {
+                                                              "name": "no",
+                                                              "children": [
+                                                                {
+                                                                  "name": "Seat comfort >= 5 ?",
+                                                                  "children": [
+                                                                    {
+                                                                      "name": "yes",
+                                                                      "children": [
+                                                                        {
+                                                                          "name": "satisfied"
+                                                                        }
+                                                                      ]
+                                                                    },
+                                                                    {
+                                                                      "name": "no",
+                                                                      "children": [
+                                                                        {
+                                                                          "name": "Checkin service >= 5 ?",
+                                                                          "children": [
+                                                                            {
+                                                                              "name": "yes",
+                                                                              "children": [
+                                                                                {
+                                                                                  "name": "satisfied"
+                                                                                }
+                                                                              ]
+                                                                            },
+                                                                            {
+                                                                              "name": "no",
+                                                                              "children": [
+                                                                                {
+                                                                                  "name": "Inflight service >= 5 ?",
+                                                                                  "children": [
+                                                                                    {
+                                                                                      "name": "yes",
+                                                                                      "children": [
+                                                                                        {
+                                                                                          "name": "satisfied"
+                                                                                        }
+                                                                                      ]
+                                                                                    },
+                                                                                    {
+                                                                                      "name": "no",
+                                                                                      "children": [
+                                                                                        {
+                                                                                          "name": "Inflight service >= 2 ?",
+                                                                                          "children": [
+                                                                                            {
+                                                                                              "name": "yes",
+                                                                                              "children": [
+                                                                                                {
+                                                                                                  "name": "Departure Delay in Minutes >= 94 ?",
+                                                                                                  "children": [
+                                                                                                    {
+                                                                                                      "name": "yes",
+                                                                                                      "children": [
+                                                                                                        {
+                                                                                                          "name": "satisfied"
+                                                                                                        }
+                                                                                                      ]
+                                                                                                    },
+                                                                                                    {
+                                                                                                      "name": "no",
+                                                                                                      "children": [
+                                                                                                        {
+                                                                                                          "name": "Baggage handling >= 5 ?",
+                                                                                                          "children": [
+                                                                                                            {
+                                                                                                              "name": "yes",
+                                                                                                              "children": [
+                                                                                                                {
+                                                                                                                  "name": "satisfied"
+                                                                                                                }
+                                                                                                              ]
+                                                                                                            },
+                                                                                                            {
+                                                                                                              "name": "no",
+                                                                                                              "children": [
+                                                                                                                {
+                                                                                                                  "name": "Age >= 67 ?",
+                                                                                                                  "children": [
+                                                                                                                    {
+                                                                                                                      "name": "yes",
+                                                                                                                      "children": [
+                                                                                                                        {
+                                                                                                                          "name": "neutral or dissatisfied"
+                                                                                                                        }
+                                                                                                                      ]
+                                                                                                                    },
+                                                                                                                    {
+                                                                                                                      "name": "no",
+                                                                                                                      "children": [
+                                                                                                                        {
+                                                                                                                          "name": "Age >= 22 ?",
+                                                                                                                          "children": [
+                                                                                                                            {
+                                                                                                                              "name": "yes",
+                                                                                                                              "children": [
+                                                                                                                                {
+                                                                                                                                  "name": "On-board service >= 3 ?",
+                                                                                                                                  "children": [
+                                                                                                                                    {
+                                                                                                                                      "name": "yes",
+                                                                                                                                      "children": [
+                                                                                                                                        {
+                                                                                                                                          "name": "Inflight service >= 3 ?",
+                                                                                                                                          "children": [
+                                                                                                                                            {
+                                                                                                                                              "name": "yes",
+                                                                                                                                              "children": [
+                                                                                                                                                {
+                                                                                                                                                  "name": "Checkin service >= 3 ?",
+                                                                                                                                                  "children": [
+                                                                                                                                                    {
+                                                                                                                                                      "name": "yes",
+                                                                                                                                                      "children": [
+                                                                                                                                                        {
+                                                                                                                                                          "name": "Departure Delay in Minutes >= 43 ?",
+                                                                                                                                                          "children": [
+                                                                                                                                                            {
+                                                                                                                                                              "name": "yes",
+                                                                                                                                                              "children": [
+                                                                                                                                                                {
+                                                                                                                                                                  "name": "satisfied"
+                                                                                                                                                                }
+                                                                                                                                                              ]
+                                                                                                                                                            },
+                                                                                                                                                            {
+                                                                                                                                                              "name": "no",
+                                                                                                                                                              "children": [
+                                                                                                                                                                {
+                                                                                                                                                                  "name": "neutral or dissatisfied"
+                                                                                                                                                                }
+                                                                                                                                                              ]
+                                                                                                                                                            }
+                                                                                                                                                          ]
+                                                                                                                                                        }
+                                                                                                                                                      ]
+                                                                                                                                                    },
+                                                                                                                                                    {
+                                                                                                                                                      "name": "no",
+                                                                                                                                                      "children": [
+                                                                                                                                                        {
+                                                                                                                                                          "name": "Departure Delay in Minutes >= 13 ?",
+                                                                                                                                                          "children": [
+                                                                                                                                                            {
+                                                                                                                                                              "name": "yes",
+                                                                                                                                                              "children": [
+                                                                                                                                                                {
+                                                                                                                                                                  "name": "On-board service >= 4 ?",
+                                                                                                                                                                  "children": [
+                                                                                                                                                                    {
+                                                                                                                                                                      "name": "yes",
+                                                                                                                                                                      "children": [
+                                                                                                                                                                        {
+                                                                                                                                                                          "name": "neutral or dissatisfied"
+                                                                                                                                                                        }
+                                                                                                                                                                      ]
+                                                                                                                                                                    },
+                                                                                                                                                                    {
+                                                                                                                                                                      "name": "no",
+                                                                                                                                                                      "children": [
+                                                                                                                                                                        {
+                                                                                                                                                                          "name": "satisfied"
+                                                                                                                                                                        }
+                                                                                                                                                                      ]
+                                                                                                                                                                    }
+                                                                                                                                                                  ]
+                                                                                                                                                                }
+                                                                                                                                                              ]
+                                                                                                                                                            },
+                                                                                                                                                            {
+                                                                                                                                                              "name": "no",
+                                                                                                                                                              "children": [
+                                                                                                                                                                {
+                                                                                                                                                                  "name": "satisfied"
+                                                                                                                                                                }
+                                                                                                                                                              ]
+                                                                                                                                                            }
+                                                                                                                                                          ]
+                                                                                                                                                        }
+                                                                                                                                                      ]
+                                                                                                                                                    }
+                                                                                                                                                  ]
+                                                                                                                                                }
+                                                                                                                                              ]
+                                                                                                                                            },
+                                                                                                                                            {
+                                                                                                                                              "name": "no",
+                                                                                                                                              "children": [
+                                                                                                                                                {
+                                                                                                                                                  "name": "satisfied"
+                                                                                                                                                }
+                                                                                                                                              ]
+                                                                                                                                            }
+                                                                                                                                          ]
+                                                                                                                                        }
+                                                                                                                                      ]
+                                                                                                                                    },
+                                                                                                                                    {
+                                                                                                                                      "name": "no",
+                                                                                                                                      "children": [
+                                                                                                                                        {
+                                                                                                                                          "name": "Leg room service >= 4 ?",
+                                                                                                                                          "children": [
+                                                                                                                                            {
+                                                                                                                                              "name": "yes",
+                                                                                                                                              "children": [
+                                                                                                                                                {
+                                                                                                                                                  "name": "Checkin service >= 4 ?",
+                                                                                                                                                  "children": [
+                                                                                                                                                    {
+                                                                                                                                                      "name": "yes",
+                                                                                                                                                      "children": [
+                                                                                                                                                        {
+                                                                                                                                                          "name": "neutral or dissatisfied"
+                                                                                                                                                        }
+                                                                                                                                                      ]
+                                                                                                                                                    },
+                                                                                                                                                    {
+                                                                                                                                                      "name": "no",
+                                                                                                                                                      "children": [
+                                                                                                                                                        {
+                                                                                                                                                          "name": "Gender == Male ?",
+                                                                                                                                                          "children": [
+                                                                                                                                                            {
+                                                                                                                                                              "name": "yes",
+                                                                                                                                                              "children": [
+                                                                                                                                                                {
+                                                                                                                                                                  "name": "Leg room service >= 5 ?",
+                                                                                                                                                                  "children": [
+                                                                                                                                                                    {
+                                                                                                                                                                      "name": "yes",
+                                                                                                                                                                      "children": [
+                                                                                                                                                                        {
+                                                                                                                                                                          "name": "Age >= 58 ?",
+                                                                                                                                                                          "children": [
+                                                                                                                                                                            {
+                                                                                                                                                                              "name": "yes",
+                                                                                                                                                                              "children": [
+                                                                                                                                                                                {
+                                                                                                                                                                                  "name": "satisfied"
+                                                                                                                                                                                }
+                                                                                                                                                                              ]
+                                                                                                                                                                            },
+                                                                                                                                                                            {
+                                                                                                                                                                              "name": "no",
+                                                                                                                                                                              "children": [
+                                                                                                                                                                                {
+                                                                                                                                                                                  "name": "neutral or dissatisfied"
+                                                                                                                                                                                }
+                                                                                                                                                                              ]
+                                                                                                                                                                            }
+                                                                                                                                                                          ]
+                                                                                                                                                                        }
+                                                                                                                                                                      ]
+                                                                                                                                                                    },
+                                                                                                                                                                    {
+                                                                                                                                                                      "name": "no",
+                                                                                                                                                                      "children": [
+                                                                                                                                                                        {
+                                                                                                                                                                          "name": "satisfied"
+                                                                                                                                                                        }
+                                                                                                                                                                      ]
+                                                                                                                                                                    }
+                                                                                                                                                                  ]
+                                                                                                                                                                }
+                                                                                                                                                              ]
+                                                                                                                                                            },
+                                                                                                                                                            {
+                                                                                                                                                              "name": "no",
+                                                                                                                                                              "children": [
+                                                                                                                                                                {
+                                                                                                                                                                  "name": "neutral or dissatisfied"
+                                                                                                                                                                }
+                                                                                                                                                              ]
+                                                                                                                                                            }
+                                                                                                                                                          ]
+                                                                                                                                                        }
+                                                                                                                                                      ]
+                                                                                                                                                    }
+                                                                                                                                                  ]
+                                                                                                                                                }
+                                                                                                                                              ]
+                                                                                                                                            },
+                                                                                                                                            {
+                                                                                                                                              "name": "no",
+                                                                                                                                              "children": [
+                                                                                                                                                {
+                                                                                                                                                  "name": "Departure/Arrival time convenient >= 3 ?",
+                                                                                                                                                  "children": [
+                                                                                                                                                    {
+                                                                                                                                                      "name": "yes",
+                                                                                                                                                      "children": [
+                                                                                                                                                        {
+                                                                                                                                                          "name": "satisfied"
+                                                                                                                                                        }
+                                                                                                                                                      ]
+                                                                                                                                                    },
+                                                                                                                                                    {
+                                                                                                                                                      "name": "no",
+                                                                                                                                                      "children": [
+                                                                                                                                                        {
+                                                                                                                                                          "name": "neutral or dissatisfied"
+                                                                                                                                                        }
+                                                                                                                                                      ]
+                                                                                                                                                    }
+                                                                                                                                                  ]
+                                                                                                                                                }
+                                                                                                                                              ]
+                                                                                                                                            }
+                                                                                                                                          ]
+                                                                                                                                        }
+                                                                                                                                      ]
+                                                                                                                                    }
+                                                                                                                                  ]
+                                                                                                                                }
+                                                                                                                              ]
+                                                                                                                            },
+                                                                                                                            {
+                                                                                                                              "name": "no",
+                                                                                                                              "children": [
+                                                                                                                                {
+                                                                                                                                  "name": "neutral or dissatisfied"
+                                                                                                                                }
+                                                                                                                              ]
+                                                                                                                            }
+                                                                                                                          ]
+                                                                                                                        }
+                                                                                                                      ]
+                                                                                                                    }
+                                                                                                                  ]
+                                                                                                                }
+                                                                                                              ]
+                                                                                                            }
+                                                                                                          ]
+                                                                                                        }
+                                                                                                      ]
+                                                                                                    }
+                                                                                                  ]
+                                                                                                }
+                                                                                              ]
+                                                                                            },
+                                                                                            {
+                                                                                              "name": "no",
+                                                                                              "children": [
+                                                                                                {
+                                                                                                  "name": "satisfied"
+                                                                                                }
+                                                                                              ]
+                                                                                            }
+                                                                                          ]
+                                                                                        }
+                                                                                      ]
+                                                                                    }
+                                                                                  ]
+                                                                                }
+                                                                              ]
+                                                                            }
+                                                                          ]
+                                                                        }
+                                                                      ]
+                                                                    }
+                                                                  ]
+                                                                }
+                                                              ]
+                                                            }
+                                                          ]
+                                                        }
+                                                      ]
+                                                    }
+                                                  ]
+                                                }
+                                              ]
+                                            },
+                                            {
+                                              "name": "no",
+                                              "children": [
+                                                {
+                                                  "name": "Seat comfort >= 4 ?",
+                                                  "children": [
+                                                    {
+                                                      "name": "yes",
+                                                      "children": [
+                                                        {
+                                                          "name": "Class == Business ?",
+                                                          "children": [
+                                                            {
+                                                              "name": "yes",
+                                                              "children": [
+                                                                {
+                                                                  "name": "Leg room service >= 1 ?",
+                                                                  "children": [
+                                                                    {
+                                                                      "name": "yes",
+                                                                      "children": [
+                                                                        {
+                                                                          "name": "satisfied"
+                                                                        }
+                                                                      ]
+                                                                    },
+                                                                    {
+                                                                      "name": "no",
+                                                                      "children": [
+                                                                        {
+                                                                          "name": "neutral or dissatisfied"
+                                                                        }
+                                                                      ]
+                                                                    }
+                                                                  ]
+                                                                }
+                                                              ]
+                                                            },
+                                                            {
+                                                              "name": "no",
+                                                              "children": [
+                                                                {
+                                                                  "name": "neutral or dissatisfied"
+                                                                }
+                                                              ]
+                                                            }
+                                                          ]
+                                                        }
+                                                      ]
+                                                    },
+                                                    {
+                                                      "name": "no",
+                                                      "children": [
+                                                        {
+                                                          "name": "Baggage handling >= 4 ?",
+                                                          "children": [
+                                                            {
+                                                              "name": "yes",
+                                                              "children": [
+                                                                {
+                                                                  "name": "Leg room service >= 4 ?",
+                                                                  "children": [
+                                                                    {
+                                                                      "name": "yes",
+                                                                      "children": [
+                                                                        {
+                                                                          "name": "satisfied"
+                                                                        }
+                                                                      ]
+                                                                    },
+                                                                    {
+                                                                      "name": "no",
+                                                                      "children": [
+                                                                        {
+                                                                          "name": "neutral or dissatisfied"
+                                                                        }
+                                                                      ]
+                                                                    }
+                                                                  ]
+                                                                }
+                                                              ]
+                                                            },
+                                                            {
+                                                              "name": "no",
+                                                              "children": [
+                                                                {
+                                                                  "name": "Age >= 37 ?",
+                                                                  "children": [
+                                                                    {
+                                                                      "name": "yes",
+                                                                      "children": [
+                                                                        {
+                                                                          "name": "neutral or dissatisfied"
+                                                                        }
+                                                                      ]
+                                                                    },
+                                                                    {
+                                                                      "name": "no",
+                                                                      "children": [
+                                                                        {
+                                                                          "name": "Flight Distance >= 2237 ?",
+                                                                          "children": [
+                                                                            {
+                                                                              "name": "yes",
+                                                                              "children": [
+                                                                                {
+                                                                                  "name": "satisfied"
+                                                                                }
+                                                                              ]
+                                                                            },
+                                                                            {
+                                                                              "name": "no",
+                                                                              "children": [
+                                                                                {
+                                                                                  "name": "neutral or dissatisfied"
+                                                                                }
+                                                                              ]
+                                                                            }
+                                                                          ]
+                                                                        }
+                                                                      ]
+                                                                    }
+                                                                  ]
+                                                                }
+                                                              ]
+                                                            }
+                                                          ]
+                                                        }
+                                                      ]
+                                                    }
+                                                  ]
+                                                }
+                                              ]
+                                            }
+                                          ]
+                                        }
+                                      ]
+                                    },
+                                    {
+                                      "name": "no",
+                                      "children": [
+                                        {
+                                          "name": "Baggage handling >= 4 ?",
+                                          "children": [
+                                            {
+                                              "name": "yes",
+                                              "children": [
+                                                {
+                                                  "name": "Checkin service >= 2 ?",
+                                                  "children": [
+                                                    {
+                                                      "name": "yes",
+                                                      "children": [
+                                                        {
+                                                          "name": "satisfied"
+                                                        }
+                                                      ]
+                                                    },
+                                                    {
+                                                      "name": "no",
+                                                      "children": [
+                                                        {
+                                                          "name": "neutral or dissatisfied"
+                                                        }
+                                                      ]
+                                                    }
+                                                  ]
+                                                }
+                                              ]
+                                            },
+                                            {
+                                              "name": "no",
+                                              "children": [
+                                                {
+                                                  "name": "neutral or dissatisfied"
+                                                }
+                                              ]
+                                            }
+                                          ]
+                                        }
+                                      ]
+                                    }
+                                  ]
+                                }
+                              ]
+                            },
+                            {
+                              "name": "no",
+                              "children": [
+                                {
+                                  "name": "neutral or dissatisfied"
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "no",
+              "children": [
+                {
+                  "name": "neutral or dissatisfied"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "no",
+      "children": [
+        {
+          "name": "neutral or dissatisfied"
+        }
+      ]
+    }
+  ]
+}
